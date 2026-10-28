@@ -1,0 +1,157 @@
+/* GENERAL PAGE STYLING */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f3f8;
+    color: #344054;
+    line-height: 1.8;
+    padding: 25px 15px;
+}
+
+/* PROFESSIONAL HEADER */
+header {
+    max-width: 950px;
+    margin: 0 auto;
+    background: linear-gradient(135deg, #101c3d, #173b70);
+    color: white;
+    text-align: center;
+    padding: 55px 20px;
+    border-radius: 18px 18px 0 0;
+    border-bottom: 5px solid #d6ad60;
+}
+
+header h1 {
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+header h3 {
+    font-size: 14px;
+    font-weight: normal;
+    color: #e1e8f5;
+    margin: 5px 0;
+    overflow-wrap: anywhere;
+}
+
+/* MAIN CONTENT */
+main {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 10px 35px rgba(16, 28, 61, 0.08);
+}
+
+/* INDIVIDUAL CV SECTIONS */
+section {
+    background-color: #ffffff;
+    padding: 22px 25px;
+    margin-bottom: 22px;
+    border: 1px solid #e4e9f2;
+    border-left: 5px solid #d6ad60;
+    border-radius: 10px;
+    transition: transform 0.2s ease,
+                box-shadow 0.2s ease;
+}
+
+section:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(16, 28, 61, 0.08);
+}
+
+/* SECTION HEADINGS */
+section h2 {
+    color: #173b70;
+    font-size: 21px;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #edf0f5;
+}
+
+/* SUBHEADINGS */
+section h3 {
+    color: #a77a2e;
+    font-size: 16px;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+
+/* PARAGRAPHS */
+section p {
+    font-size: 15px;
+    margin-bottom: 8px;
+    overflow-wrap: anywhere;
+}
+
+/* SKILLS, HOBBIES AND ACHIEVEMENTS */
+section ul {
+    padding-left: 22px;
+}
+
+section li {
+    padding: 4px 0;
+    font-size: 15px;
+}
+
+section li::marker {
+    color: #c49a4a;
+}
+
+/* FOOTER */
+footer {
+    max-width: 950px;
+    margin: 0 auto;
+    background-color: #101c3d;
+    color: #dce5f5;
+    text-align: center;
+    padding: 22px 15px;
+    border-top: 4px solid #d6ad60;
+    border-radius: 0 0 18px 18px;
+    font-size: 13px;
+}
+
+/* MOBILE PHONE RESPONSIVENESS */
+@media screen and (max-width: 600px) {
+    body {
+        padding: 12px 8px;
+    }
+
+    header {
+        padding: 35px 15px;
+    }
+
+    header h1 {
+        font-size: 25px;
+        letter-spacing: 1px;
+    }
+
+    header h3 {
+        font-size: 12px;
+    }
+
+    main {
+        padding: 15px 10px;
+    }
+
+    section {
+        padding: 18px 15px;
+        margin-bottom: 16px;
+    }
+
+    section h2 {
+        font-size: 18px;
+    }
+
+    section p,
+    section li {
+        font-size: 14px;
+    }
+}
