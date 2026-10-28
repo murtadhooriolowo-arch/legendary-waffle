@@ -6,18 +6,98 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body><header>
-    <h1>YOUR FULL NAME</h1>
-    <h3>Email: your-email@example.com</h3>
-    <h3>Phone: Your phone number</h3>
+    <h1>Oriolowo Murtadha</h1>
+    <h3>Email: oriolowomurtadho@gmail.com</h3>
+    <h3>Phone: 8064836791</h3>
+    <h3>Asero estate: Abeokuta, Nigeria</h3>
+</header>
+
+<main>
+    <section>
+        <h2>Personal Information</h2>
+        <p>Date of Birth:   14/1/2010 </p>
+        <p>Gender: Male</p>
+     <!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><header>
+    <h1>Oriolowo Murtadha</h1>
+    <h3>Email: oriolowomurtadho@gmail.com</h3>
+    <h3>Phone: 08064936791</h3>
     <h3>Address: Your city, Nigeria</h3>
 </header>
 
 <main>
     <section>
         <h2>Personal Information</h2>
-        <p>Date of Birth: Your date of birth</p>
-        <p>Gender: Your gender</p>
+        <p>Date of Birth: 14/1/2010</p>
+        <p>Gender: Male</p>
         <p>Nationality: Nigerian</p>
+        <p>State of Origin: Lagos state</p>
+    </section>
+
+    <section>
+        <h2>¢yber security</h2>
+        <p>To develop my knowledge and skills, achieve academic excellence, and become a responsible and successful individual.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>Primary Education</h3>
+        <p>School: Bolif International school</p>
+        <p>Years Attended: 2018 - 2024</p>
+
+        <h3>Secondary Education</h3>
+        <p>School: FCE MODEL SECONDARY SCHOOL</p>
+        <p>Years Attended: 2024 - Present</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Basic HTML and CSS</li>
+            <li>Communication</li>
+            <li>Teamwork</li>
+            <li>Problem-solving</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Hobbies and Interests</h2>
+        <ul>
+            <li>Learning computer programming</li>
+            <li>Reading</li>
+            <li>Listening to music</li>
+            <li>Watching Anime</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Achievements</h2>
+        <ul>
+            <li>Completed junior secondary education.</li>
+            <li>Learning web development with HTML and CSS.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Referees</h2>
+        <p>Referee 1: Teacher 1 (contact details available on request)</p>
+        <p>Referee 2: Teacher 2 (contact details available on request)</p>
+        <p>Referee 3: Teacher 3 (contact details available on request)</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 My Personal CV Website</p>
+</footer>
+
+</body>
+</html>   <p>Nationality: Nigerian</p>
         <p>State of Origin: Your state</p>
     </section>
 
