@@ -1,2 +1,82 @@
-# legendary-waffle
-My personal cv
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><header>
+    <h1>YOUR FULL NAME</h1>
+    <h3>Email: your-email@example.com</h3>
+    <h3>Phone: Your phone number</h3>
+    <h3>Address: Your city, Nigeria</h3>
+</header>
+
+<main>
+    <section>
+        <h2>Personal Information</h2>
+        <p>Date of Birth: Your date of birth</p>
+        <p>Gender: Your gender</p>
+        <p>Nationality: Nigerian</p>
+        <p>State of Origin: Your state</p>
+    </section>
+
+    <section>
+        <h2>Career Objective</h2>
+        <p>To develop my knowledge and skills, achieve academic excellence, and become a responsible and successful individual.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>Primary Education</h3>
+        <p>School: Your primary school</p>
+        <p>Years Attended: 2018 - 2024</p>
+
+        <h3>Secondary Education</h3>
+        <p>School: Your secondary school</p>
+        <p>Years Attended: 2024 - Present</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Basic HTML and CSS</li>
+            <li>Communication</li>
+            <li>Teamwork</li>
+            <li>Problem-solving</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Hobbies and Interests</h2>
+        <ul>
+            <li>Learning computer programming</li>
+            <li>Reading</li>
+            <li>Listening to music</li>
+            <li>Learning new skills</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Achievements</h2>
+        <ul>
+            <li>Completed junior secondary education.</li>
+            <li>Learning web development with HTML and CSS.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Referees</h2>
+        <p>Referee 1: Teacher 1 (contact details available on request)</p>
+        <p>Referee 2: Teacher 2 (contact details available on request)</p>
+        <p>Referee 3: Teacher 3 (contact details available on request)</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 My Personal CV Website</p>
+</footer>
+
+</body>
+</html>
+
